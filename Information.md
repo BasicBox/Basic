@@ -38,4 +38,4 @@ PluginDevelopment
 
 #If you heal 80people in your lifetime you get the [Healer] rank forever.
 
-This is all I have so far. Any ideas email me @ cbigge695@gmail.com!
+This is all I have so far. Any ideas email me @ cbigge695@gmail.com
